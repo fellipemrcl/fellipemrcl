@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **fmrclms@gmail.com**
 
-- ⚡ Fun fact **I'm a metal and k-pop fan. Yes, that's possible.**
+- ⚡ Fun fact: **I'm a metal and k-pop fan. Yes, that's possible.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
