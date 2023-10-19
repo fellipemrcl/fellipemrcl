@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Fellipe Marcel</h1>
 <h3 align="center">Fullstack Developer from Brazil 🚀 | Crafting Digital Solutions with Passion and Precision</h3>
 
-- 🌱 I’m currently learning **AWS, Go**
+- 🌱 I’m currently learning **Angular, Java, GoLang**
 
-- 💬 Ask me about **react, javascript, tailwindcss**
+- 💬 Ask me about **React, NextJS, TypeScript, TailwindCSS**
 
 - 📫 How to reach me **fmrclms@gmail.com**
 
