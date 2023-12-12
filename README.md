@@ -88,9 +88,9 @@
 
 
 ## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=fellipemrcl&variant=transparent&show_icons=true&count_private=true&hide_border=true" align="left" />  
+<img src="https://github-readme-stats.vercel.app/api?username=fellipemrcl&theme=transparent&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fellipemrcl&variant=transparent&hide_border=true&layout=compact" align="left" />  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fellipemrcl&theme=transparent&hide_border=true&layout=compact" align="left" />  
 
 <br/>  
 
