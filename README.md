@@ -10,7 +10,7 @@
 - ❓ Ask me about anything related to MERN stack and related technologies  
   
 
-- ⚡ Fun fact: I'm a huge Metal and K-pop fan. Yes, you read correcly.  
+- ⚡ Fun fact: I'm a huge Metal and K-pop fan. Yes, you read it correcly.  
   
 
 <br/>  
@@ -88,9 +88,9 @@
 
 
 ## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=fellipemrcl&show_icons=true&count_private=true&hide_border=true" align="left" />  
+<img src="https://github-readme-stats.vercel.app/api?username=fellipemrcl&variant=transparent&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fellipemrcl&hide_border=true&layout=compact" align="left" />  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fellipemrcl&variant=transparent&hide_border=true&layout=compact" align="left" />  
 
 <br/>  
 
