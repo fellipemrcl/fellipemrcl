@@ -93,4 +93,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fellipemrcl&theme=transparent&hide_border=true&layout=compact" align="left" />  
 </div>
 
+## Extra Content
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=31h4fp34ck5ansl27bgjhynf5orm&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=true" />
