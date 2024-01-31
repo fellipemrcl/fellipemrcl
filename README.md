@@ -1,7 +1,7 @@
 ### <div align="center">I'm Fellipe Marcel. A passionate Full-Stack Web Developer from Brazil.</div>  
   
 
-- 🔭 I’m currently working on [SoundVoyage](https://github.com/fellipemrcl/soundvoyage)  
+- 🔭 I’m currently working on [Wondrcart](https://github.com/fellipemrcl/wondrcart)  and [BarberHub](https://github.com/fellipemrcl/barberhub)
   
 
 - 🌱 I’m currently learning Nest.js, Java and Spring Framework  
