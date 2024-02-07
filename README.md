@@ -19,5 +19,5 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=fellipemrcl&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Quote of the Day
+## ✍️ Quote of the Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
